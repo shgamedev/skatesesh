@@ -3,6 +3,10 @@ BSc Computer Games Development 2nd Year Level Design Project
 
 A CONTROLLER IS REQUIRED TO PLAY THIS GAME, XBOX360 CONTROLLER WILL WORK NATIVELY
 
+Version 0.0.1 build for Windows PC.
+
+Choose either the .rar or .zip file to download, whichever you prefer.
+
 To run the game, double click on the LevelDesignProject.exe file in the "Skate Sesh v0.0.1" folder.
 
 Please complete the playtesting survery once you have played the game.
